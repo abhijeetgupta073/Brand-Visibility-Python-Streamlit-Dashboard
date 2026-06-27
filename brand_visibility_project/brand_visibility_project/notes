@@ -1,0 +1,2 @@
+cd brand_visibility_project
+streamlit run dashboard.py
